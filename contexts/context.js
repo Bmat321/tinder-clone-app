@@ -22,11 +22,10 @@ WebBrowser.maybeCompleteAuthSession();
 
 const config = {
   androidClientId:
-    "373673010996-8mton7ofjif41s5oihpc8n6eih31o2ei.apps.googleusercontent.com",
+    "",
   iosClientId:
-    "373673010996-8mton7ofjif41s5oihpc8n6eih31o2ei.apps.googleusercontent.com",
-  expoClientId:
-    "373673010996-n2civ75lqv8ijf1jhbmt4069jin216cs.apps.googleusercontent.com",
+    "",
+  expoClientId:",
   scopes: ["profile", "email"],
   permissions: ["public_profle", "email", "gender", "location"],
 };
